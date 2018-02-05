@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.coswit.www.fornovel.activity.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_main"
+        android:background="@color/mainColor"
+        android:layout_width="match_parent"
+        android:navigationIcon="@drawable/ic_search"
+        android:layout_height="wrap_content">
+        <!--<ImageView-->
+            <!--android:id="@+id/img_actMian_settings"-->
+            <!--android:layout_marginLeft="3dp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ic_settings"-->
+            <!--android:padding="3dp"/>-->
+        <!--<ImageView-->
+            <!---->
+            <!--android:id="@+id/img_toSearch"-->
+            <!--android:paddingRight="8dp"-->
+            <!--android:paddingLeft="8dp"-->
+            <!--android:src="@drawable/ic_search"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"/>-->
+    </android.support.v7.widget.Toolbar>
+
+
+
+
+
+
+
+
+</LinearLayout>
